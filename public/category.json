@@ -1,0 +1,44 @@
+[
+    {
+        "_id": 1,
+        "name": "Whiskers",
+        "short_description": "Whiskers is a friendly and curious cat who loves to explore and cuddle. She is very affectionate and playful.",
+        "img": "https://i.ibb.co/CQNJ0Z9/Cat-2.jpg",
+        "category": "cat"
+    },
+    {
+        "_id": 2,
+        "name": "Polly",
+        "short_description": "Polly is a vibrant parrot known for her colorful feathers and ability to mimic human speech. She enjoys social interaction..",
+        "img": "https://i.ibb.co/ckXFHXY/parrot-2.jpg",
+        "category": "parrot"
+    },
+    {
+        "_id": 3,
+        "name": "Buddy",
+        "short_description": "Buddy is a loyal and energetic dog who loves outdoor adventures. He is great with kids and very protective.",
+        "img": "https://i.ibb.co/NF4n2kg/Dog.jpg",
+        "category": "dog"
+    },
+    {
+        "_id": 4,
+        "name": "Goldie",
+        "short_description": "Goldie is a calm and beautiful goldfish, known for her vibrant scales and graceful swimming. She brings tranquility to any home.",
+        "img": "https://i.ibb.co/SrwT9Nb/Goldfish.jpg",
+        "category": "goldfish"
+    },
+    {
+        "_id": 5,
+        "name": "Nibbles",
+        "short_description": "Nibbles is a playful and curious hamster who loves to explore his surroundings. He is small, fluffy, and very active.",
+        "img": "https://i.ibb.co/r3TfXw9/Hamster.jpg",
+        "category": "hamster"
+    },
+    {
+        "_id": 6,
+        "name": "Thumper",
+        "short_description": "Thumper is a gentle and soft rabbit who enjoys being petted. He is calm, friendly, and loves to hop around the garden.",
+        "img": "https://i.ibb.co/zHRv6tp/Rabbits.jpg",
+        "category": "rabbit"
+    }
+]

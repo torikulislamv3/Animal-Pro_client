@@ -1,0 +1,111 @@
+[
+    {
+      "_id": "cat1",
+      "category": "cat",
+      "petImage": "https://i.ibb.co/t2t8MmQ/animals-7663291-1280.jpg",
+      "petName": "Whiskers",
+      "petAge": 3,
+      "petLocation": "New York, NY",
+      "addedDate": "2024-06-01"
+    },
+    {
+      "_id": "cat2",
+      "category": "cat",
+      "petImage": "https://i.ibb.co/XxX5vPg/cat-7781066-1280.jpg",
+      "petName": "Shadow",
+      "petAge": 2,
+      "petLocation": "Los Angeles, CA",
+      "addedDate": "2024-06-02"
+    },
+    {
+      "_id": "dog1",
+      "category": "dog",
+      "petImage": "https://i.ibb.co/8XZDytm/pomapoo-2885845-1280.jpg",
+      "petName": "Buddy",
+      "petAge": 4,
+      "petLocation": "Chicago, IL",
+      "addedDate": "2024-06-03"
+    },
+    {
+      "_id": "dog2",
+      "category": "dog",
+      "petImage": "https://i.ibb.co/x6WmwRH/dog-2810484-1280.jpg",
+      "petName": "Bella",
+      "petAge": 1,
+      "petLocation": "Houston, TX",
+      "addedDate": "2024-06-04"
+    },
+    {
+      "_id": "parrot1",
+      "category": "parrot",
+      "petImage": "https://i.ibb.co/sjfsF1M/parrot-5448628-1280.jpg",
+      "petName": "Polly",
+      "petAge": 5,
+      "petLocation": "Miami, FL",
+      "addedDate": "2024-06-05"
+    },
+    {
+      "_id": "parrot2",
+      "category": "parrot",
+      "petImage": "https://i.ibb.co/v3tz91V/parrot-3695678-1280.jpg",
+      "petName": "Kiwi",
+      "petAge": 3,
+      "petLocation": "Seattle, WA",
+      "addedDate": "2024-06-06"
+    },
+    {
+      "_id": "goldfish1",
+      "category": "goldfish",
+      "petImage": "https://i.ibb.co/xGd1tX2/royal-gramma-basslet-8012082-1280.jpg",
+      "petName": "Goldie",
+      "petAge": 2,
+      "petLocation": "Atlanta, GA",
+      "addedDate": "2024-06-07"
+    },
+    {
+      "_id": "goldfish2",
+      "category": "goldfish",
+      "petImage": "https://i.ibb.co/PQW8JRL/fish-7564701-1280.jpg",
+      "petName": "Bubbles",
+      "petAge": 1,
+      "petLocation": "Denver, CO",
+      "addedDate": "2024-06-08"
+    },
+    {
+      "_id": "hamster1",
+      "category": "hamster",
+      "petImage": "https://i.ibb.co/HHtmCVj/guinea-pig-2513178-1280.jpg",
+      "petName": "Nibbles",
+      "petAge": 1,
+      "petLocation": "Boston, MA",
+      "addedDate": "2024-06-09"
+    },
+    {
+      "_id": "hamster2",
+      "category": "hamster",
+      "petImage": "https://i.ibb.co/HgDZMSJ/guinea-pig-2513177-1280.jpg",
+      "petName": "Squeak",
+      "petAge": 0.5,
+      "petLocation": "San Francisco, CA",
+      "addedDate": "2024-06-10"
+    },
+    {
+      "_id": "rabbit1",
+      "category": "rabbit",
+      "petImage": "https://i.ibb.co/gdrdS7g/animal-1850192-1280.jpg",
+      "petName": "Thumper",
+      "petAge": 3,
+      "petLocation": "Portland, OR",
+      "addedDate": "2024-06-11"
+    },
+    {
+      "_id": "rabbit2",
+      "category": "rabbit",
+      "petImage": "https://i.ibb.co/HYSBv14/easter-2197043-1280.jpg",
+      "petName": "Flopsy",
+      "petAge": 2,
+      "petLocation": "Austin, TX",
+      "addedDate": "2024-06-12"
+    }
+  ]
+  

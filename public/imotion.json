@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "cat001",
+        "category": "cat",
+        "satisfaction_description": "This section encourages people to adopt cats and give them a better life. Cats, with their independent yet affectionate nature, bring joy and companionship. Adopting a cat means offering a loving home to a curious and playful friend, creating a bond that is both comforting and rewarding.",
+        "img": "https://i.ibb.co/SR5qjjz/cat-4778387-1280.jpg"
+    },
+    {
+        "_id": "parrot001",
+        "category": "parrot",
+        "satisfaction_description": "This section encourages people to adopt parrots and give them a better life. Parrots are vibrant, social, and intelligent, offering endless entertainment. By adopting a parrot, you provide a loving home to a colorful companion who thrives on interaction, forming a unique and joyful bond with their owner.",
+        "img": "https://i.ibb.co/sKtGDDF/n9-YWK1-T4-Bh-Td-KBW6-Jz-Wo-1-a9lnw.webp"
+    },
+    {
+        "_id": "dog001",
+        "category": "dog",
+        "satisfaction_description": "This section encourages people to adopt dogs and give them a better life. Dogs are loyal, energetic, and loving companions. Adopting a dog means offering a home filled with adventures, joy, and unconditional love. Dogs bring happiness and companionship, making them a perfect addition to any family.",
+        "img": "https://i.ibb.co/KctwF3Y/Hp-FTj-B5-CNMx-ME7qbsl-YK-1-uaalb.webp"
+    },
+    {
+        "_id": "goldfish001",
+        "category": "goldfish",
+        "satisfaction_description": "This section encourages people to adopt goldfish and give them a better life. Goldfish, with their serene and colorful presence, bring tranquility and beauty to any home. Adopting a goldfish means providing a peaceful environment where they can thrive, adding a touch of calmness and elegance to your life.",
+        "img": "https://i.ibb.co/FXpmmf7/water-glass-2542790-1280.jpg"
+    },
+    {
+        "_id": "hamster001",
+        "category": "hamster",
+        "satisfaction_description": "This section encourages people to adopt hamsters and give them a better life. Hamsters are playful and curious creatures that bring joy and entertainment. Adopting a hamster means offering a loving home to an active and adorable pet, providing them with the care and attention they deserve.",
+        "img": "https://i.ibb.co/djkYPSf/hamster-6777534-1280.jpg"
+    },
+    {
+        "_id": "rabbit001",
+        "category": "rabbit",
+        "satisfaction_description": "This section encourages people to adopt rabbits and give them a better life. Rabbits are gentle and friendly pets that enjoy being petted. Adopting a rabbit means providing a safe and loving environment for a soft and calm companion, creating a bond filled with affection and gentle interactions.",
+        "img": "https://i.ibb.co/yhddVF2/rabbit-7692466-1280.jpg"
+    }
+]
