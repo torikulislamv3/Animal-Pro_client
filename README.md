@@ -1,8 +1,14 @@
-# React + Vite
+#### This is animals related project or website . Anyone can create an account on this website . He / She can adopt any pet animals . Even He / She donate for any animal. So thats our emotion for pet animals.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Features :
+1. Dynamic website
+2.Responsive website
+3.JWT verify emplement 
+### Technology :
+- React.js
+- Tailwind-css
+- node.js
+- firebase auth
+- mongodb
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## NB : Clone my project and install npm packege at startup to run it. After that run the npm run dev command on local computer
