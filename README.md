@@ -11,4 +11,4 @@
 - firebase auth
 - mongodb
 
-## NB : Clone my project and install npm packege at startup to run it. After that run the npm run dev command on local computer
+## NB : Clone my project and install npm packege at startup to run it. After that run the npm run dev command on local computer .
